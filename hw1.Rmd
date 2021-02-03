@@ -34,7 +34,7 @@ Please respond to all questions. If the question asks you to do something on you
   
 4. Write a paragraph describing a job that you think is related to data science. Include a hyperlink and an image. Make sure your answer is in a nice format to read. 
 
-    Answer: I really want to be a data analyst or something that is close to this position. I think one of the best part of a data analyst is about analyzing of the factors that affect the product promotion and growth, business details, combined with business direction, give a more overall product optimization program. Another hand is that I really enjoy doing experiments, and being a data analyst has a lot of opportunities to design and start experiments. Here is a link about what data analyst do.<https://medium.com/dataseries/what-does-a-data-analyst-do-5abb0a38228a>, also an image of data analyst ![Data Analyst](\Users\Admin\Documents\DS 202\ds202_hw1\1_1W2i7alm1kNZiN6YUGOyyQ.jpeg).
+    Answer: I really want to be a data analyst or something that is close to this position. I think one of the best part of a data analyst is about analyzing of the factors that affect the product promotion and growth, business details, combined with business direction, give a more overall product optimization program. Another hand is that I really enjoy doing experiments, and being a data analyst has a lot of opportunities to design and start experiments. Here is a link about what data analyst do.<https://medium.com/dataseries/what-does-a-data-analyst-do-5abb0a38228a>, also an image of data analyst ![Data Analyst](1_1W2i7alm1kNZiN6YUGOyyQ.jpeg).
   
 5. What data topic will you be most interested in? (Optional) Provide a source of such dataset if you have.
 
