@@ -1,0 +1,22 @@
+---
+title: "partner"
+author: "Braedon Giblin"
+date: "2/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Name
+Braedon Giblin -- [GitHub](https://github.com/bgiblin084)
+
+### What did the Owner do in the most recent commit? 
+My partner deleted partner.Rmd (they mistakenly pushed the file to their own git rather than mine.) The concatenated commit id is [15083b4...](https://github.com/yufeih0104/ds202_hw1/commit/15083b49dbec5bca6855a0624554a27fe4a18f6b)
+
+###  Are you able to do so without error? If you cannot, what errors did you counter?
+I encountered an error relating to the path of the image (absolute path vs relative path). Joy promptly fixed the issue however, and after re-pulling I was able to compile.
+
+### Errors / Tips
+I didnt encounter any errors or difficulties (i have used git for years, including professionally). I do think however that it is a little strange to include the HTML files into git, as typically build files should be ignored via .gitignore and re-generated when the repo is cloned.
